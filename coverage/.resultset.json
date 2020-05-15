@@ -243,6 +243,8 @@
           1,
           null,
           1,
+          null,
+          1,
           null
         ]
       },
@@ -266,7 +268,7 @@
           null,
           1,
           1,
-          null,
+          1,
           null,
           null,
           null,
@@ -390,13 +392,8 @@
           null
         ]
       },
-      "/Users/janegreene/turing/2module/challenges/make_it_work/app/controllers/projects_controller.rb": {
+      "/Users/janegreene/turing/2module/challenges/make_it_work/app/controllers/contestants_controller.rb": {
         "lines": [
-          1,
-          1,
-          0,
-          null,
-          null,
           1,
           1,
           1,
@@ -410,8 +407,22 @@
           1,
           null
         ]
+      },
+      "/Users/janegreene/turing/2module/challenges/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1589559378
+    "timestamp": 1589560885
   }
 }
